@@ -1,4 +1,5 @@
 # React + Vite
+In the backend/.env change the mongodb uri
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
