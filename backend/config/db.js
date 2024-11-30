@@ -9,7 +9,7 @@ const connectDB = async () => {
         console.log('Connected to MongoDB using Compass...');
     } catch (err) {
         console.error('Error connecting to MongoDB:', err.message);
-        process.exit(1); // Exit with failure
+        process.exit(1); 
     }
 };
 
